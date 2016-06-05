@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data Project
 ## Description
-In this project, this code book provides a summary of the source data, activities and the work carried out.
+In this project, this code book provides a summary of the activities carried and ultimately presents the resulting data fields in tidy.txt
 
 ## Source Data
 A full description of the data used in this project can be found at [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
