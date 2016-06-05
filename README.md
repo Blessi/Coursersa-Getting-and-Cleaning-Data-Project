@@ -6,14 +6,13 @@ This project helps to demonstrate the collection and cleaning of a raw data set 
 [The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ## Making Modifications to this Script
-Once you have obtained and unzipped the source files, you will need to make one modification to the R file before you can process the data.
-Note that on line 26 of run_analysis.R, you will set the path of the working directory to relect the location of the source files
-in your own directory.
+Note that on line 2 of run_analysis.R,you will get the working directory having set  your own working directory to reflect the location of the source files to be downloaded and unzipped.You then download the files and modify the R file before you process the data.
+
 
 ## Project Summary
 The following is a summary description of the project instructions
 
-You should create one R script called run_analysis.R that does the following. 
+One R script reffered to as run_analysis.R that does the following was created. 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 3. Uses descriptive activity names to name the activities in the data set
@@ -21,4 +20,4 @@ You should create one R script called run_analysis.R that does the following.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 ## Additional Information
-You can find additional information about the variables, data and transformations in the CodeBook.MD file.
+Additional information about the variables, data and transformations  can be found in the CodeBook.MD file.
